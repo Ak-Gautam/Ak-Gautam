@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-
+- 🎉I write blogs sometimes ... akshaygautam010.wixsite.com\techdrop
 - 🔭 I’m currently working on ... Spam classifier using ML
 - 🌱 I’m currently learning ... Machine learning using python
 - 👯 I’m looking to collaborate on ... NLP
