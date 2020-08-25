@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Robotics, IoT, Algorithms
 - 📫 How to reach me: ... akshaygautam010@gmail.com
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I can speak seven lanhuages :)
+- ⚡ Fun fact: ... I can speak seven languages :)
 
