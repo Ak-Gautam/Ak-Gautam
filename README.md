@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://twitter.com/Gautam_AK_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://scrapbook.hackclub.com/akshaygautam010"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a>
+<!-- <a href="https://scrapbook.hackclub.com/akshaygautam010"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a> -->
