@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I can speak seven languages(mostly local) 😎
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=0e75b6&style=flat" alt="uditkatyal" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash" alt="AK_Gautam" /></a> </p>
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/He/Him/His?gradient=windy" width="128" height="32" alt="My pronouns are He/Him/His">
