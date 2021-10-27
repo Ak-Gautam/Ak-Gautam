@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... akshaygautam010@gmail.com
 - ⚡ Fun fact: ... I can speak seven languages(mostly local) 😎
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=0e75b6&style=flat" alt="uditkatyal" /> </p>
+
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/He/Him/His?gradient=windy" width="128" height="32" alt="My pronouns are He/Him/His">
 </a>
