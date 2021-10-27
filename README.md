@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/He/Him/His?gradient=windy" width="128" height="32" alt="My pronouns are He/Him/His">
+  <img src="https://pronouns.vercel.app/He/Him/His?gradient=windy" width="164" height="48" alt="My pronouns are He/Him/His">
 </a>
 
 <br/>
