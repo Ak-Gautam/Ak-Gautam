@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 
 <!--<a href="https://twitter.com/Gautam_AK_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://scrapbook.hackclub.com/akshaygautam010"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a> -->
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam-flash&show_icons=true&locale=en&layout=compact" alt="AK_Gautam" /></p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-flash&layout=compact)](https://github.com/Gautam-flash/github-readme-stats)-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautam-flash&show_icons=true&locale=en" alt="AK_Gautam" /></p>
