@@ -6,14 +6,31 @@
 
 Here are some ideas to get you started:
 -->
-- 🎉I write blogs sometimes ... [Here](https://akshaygautam010.wixsite.com/techdrop)
-- 🔭 I’m currently working on ... CV on Raspberry pi
-- 🌱 I’m currently learning ... Deep Learning
-- 👯 I’m looking to collaborate on ... NLP projects
-- 🤔 I’m looking for help with ... Finding ML Internships
-- 💬 Ask me about ... Robotics, IoT, Algorithms
-- 📫 How to reach me: ... akshaygautam010@gmail.com
-- ⚡ Fun fact: ... I can speak seven languages(mostly local) 😎
+<!--<p align="center" text="">
+  <pre">
+  <ul>
+    <li>🎉 I write blogs sometimes      :- <a href="https://akshaygautam010.wixsite.com/techdrop">Here</a></li>
+    <li>🔭 I’m currently working on     :- CV on Raspberry pi </li>
+    <li>🌱 I’m currently learning       :- Deep Learning </li>
+    <li>👯 I’m looking to collaborate on:- NLP projects </li>
+    <li>🤔 I’m looking for help with    :- Finding ML Internships </li>
+    <li>💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures </li>
+    <li>📫 How to reach me              :- <a href="mailto:mail@akshay-gautam.tech">Email</a></li>
+    <li>⚡ Fun fact: I can speak about seven languages (mostly local) 😎 </li>
+   </ul></pre>
+</p>-->
+
+<p align="center">
+  <pre color="teal">
+   &bull; 🎉 I write blogs sometimes      :- <a href="https://akshaygautam010.wixsite.com/techdrop">Here</a>
+   &bull; 🔭 I’m currently working on     :- CV on Raspberry pi 
+   &bull; 🌱 I’m currently learning       :- Deep Learning 
+   &bull; 👯 I’m looking to collaborate on:- NLP projects 
+   &bull; 🤔 I’m looking for help with    :- Finding ML Internships 
+   &bull; 💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures 
+   &bull; 📫 How to reach me              :- <a href="mailto:mail@akshay-gautam.tech">Email</a>
+   &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
+ </pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=0e75b6&style=flat" alt="AK_Gautam" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash" alt="AK_Gautam" /></a> </p>
