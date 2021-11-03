@@ -1,3 +1,5 @@
+<h1 align="center" color="cyan">Akshay Kumar Gautam</h1><br>
+
 ![Welcome](header1.png)
 
 <!--## Hi there 👋
