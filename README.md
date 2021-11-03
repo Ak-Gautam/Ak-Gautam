@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="center"><a href="https://aksahy-gautam.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=plastic" /></a></p><br> -->
 
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash" alt="AK_Gautam" /></a></h4><br>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><br>
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="center">
