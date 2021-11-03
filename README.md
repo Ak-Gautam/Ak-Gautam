@@ -32,11 +32,11 @@ Here are some ideas to get you started:
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" alt="AK_Gautam" /> </h3><br>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="AK_Gautam" /> </h3>
 
-<!-- <p align="center"><a href="https://aksahy-gautam.tech"><img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=plastic" /></a></p><br> -->
+<p align="center"><a href="https://aksahy-gautam.tech"><img src="https://img.shields.io/website?url=https://akshay-gautam.tech&logo=github&style=plastic" height=23 width=130/></a></p>
 
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><br>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><hr>
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="center">
