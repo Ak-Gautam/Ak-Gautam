@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 <!--<a href="https://twitter.com/Gautam_AK_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://scrapbook.hackclub.com/akshaygautam010"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam-flash&show_icons=true&locale=en&layout=compact" alt="AK_Gautam" /></p><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam-flash&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AK_Gautam" /></p><br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-flash&layout=compact)](https://github.com/Gautam-flash/github-readme-stats)-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gautam-flash&show_icons=true&locale=en" alt="AK_Gautam" /></p><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gautam-flash&show_icons=true&locale=en&theme=cobalt" alt="AK_Gautam" /></p><br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-flash&" alt="AK_Gautam" /></p><br><hr>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-flash&theme=radical" alt="AK_Gautam" /></p><br><hr>
 
 
