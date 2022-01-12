@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://akshay-gautam.tech"><img src="https://img.shields.io/website?url=https://akshay-gautam.tech&logo=github&style=plastic" height=23 width=130/></a></p>
 
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gautam-flash&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><hr>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ak-Gautam&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><hr>
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="center">
@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 <!--<a href="https://twitter.com/Gautam_AK_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://scrapbook.hackclub.com/akshaygautam010"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam-flash&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AK_Gautam" /></p><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ak-Gautam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AK_Gautam" /></p><br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-flash&layout=compact)](https://github.com/Gautam-flash/github-readme-stats)-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gautam-flash&show_icons=true&locale=en&theme=cobalt" alt="AK_Gautam" /></p><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ak-Gautam&show_icons=true&locale=en&theme=cobalt" alt="AK_Gautam" /></p><br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-flash&theme=radical" alt="AK_Gautam" /></p><br><hr>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Gautam&theme=radical" alt="AK_Gautam" /></p><br><hr>
 
 
