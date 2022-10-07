@@ -1,6 +1,6 @@
 <h1 align="center" color="cyan">Akshay Kumar Gautam</h1><br>
 
-![Welcome](Twitter header - 1.png)
+![Twitter header - 1.png?raw=true](Twitter%20header%20-%201.png)
 
 <!--## Hi there 👋
 
