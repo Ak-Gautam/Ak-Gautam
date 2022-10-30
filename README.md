@@ -28,7 +28,6 @@ Here are some ideas to get you started:
    &bull; 🔭 I’m currently working on     :- CV on Raspberry pi 
    &bull; 🌱 I’m currently learning       :- Deep Learning 
    &bull; 👯 I’m looking to collaborate on:- NLP projects 
-   &bull; 🤔 I’m looking for help with    :- Finding ML Internships 
    &bull; 💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures 
    &bull; 📫 How to reach me              :- <a href="mailto:mail@akshay-gautam.tech">Email</a>
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
