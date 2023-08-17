@@ -17,7 +17,6 @@ Here are some ideas to get you started:
     <li>👯 I’m looking to collaborate on:- NLP projects </li>
     <li>🤔 I’m looking for help with    :- Finding ML Internships </li>
     <li>💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures </li>
-    <li>📫 How to reach me              :- <a href="mailto:mail@akshay-gautam.tech">Email</a></li>
     <li>⚡ Fun fact: I can speak about seven languages (mostly local) 😎 </li>
    </ul></pre>
 </p>-->
@@ -29,7 +28,6 @@ Here are some ideas to get you started:
    &bull; 🌱 I’m currently learning       :- Deep Learning 
    &bull; 👯 I’m looking to collaborate on:- NLP projects 
    &bull; 💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures 
-   &bull; 📫 How to reach me              :- <a href="mailto:mail@akshay-gautam.tech">Email</a>
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>--> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>-->
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/> </a>
@@ -69,13 +67,18 @@ Here are some ideas to get you started:
 </p><br>
 
 
-<!--<a href="https://twitter.com/Gautam_AK_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://scrapbook.hackclub.com/akshaygautam010"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ak-Gautam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AK_Gautam" /></p><br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-flash&layout=compact)](https://github.com/Gautam-flash/github-readme-stats)-->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ak-Gautam&show_icons=true&locale=en&theme=cobalt" alt="AK_Gautam" /></p><br>
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Gautam&layout=compact&theme=tokyonight) <br>
+
+<!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Gautam&layout=compact&theme=tokyonight" alt="AK_Gautam"/> <br> --->
+
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=Ak-Gautam&show_icons=true&locale=en&theme=cobalt) <br>
+
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=Ak-Gautam&show_icons=true&locale=en&theme=cobalt" alt="AK_Gautam" /><br> --->
+
+</div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Gautam&theme=radical" alt="AK_Gautam" /></p><br><hr>
 
