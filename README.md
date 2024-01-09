@@ -12,11 +12,10 @@ Here are some ideas to get you started:
   <pre">
   <ul>
     <li>🎉 I write blogs sometimes      :- <a href="https://akshaygautam010.wixsite.com/techdrop">Here</a></li>
-    <li>🔭 I’m currently working on     :- CV on Raspberry pi </li>
-    <li>🌱 I’m currently learning       :- Deep Learning </li>
-    <li>👯 I’m looking to collaborate on:- NLP projects </li>
-    <li>🤔 I’m looking for help with    :- Finding ML Internships </li>
-    <li>💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures </li>
+    <li>🔭 I’m currently working on     :- LLMs on Raspberry pi </li>
+    <li>🌱 I’m currently learning       :- AI model frankestining </li>
+    <li>👯 I’m looking to collaborate on:- Applied AI projects </li>
+    <li>💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge </li>
     <li>⚡ Fun fact: I can speak about seven languages (mostly local) 😎 </li>
    </ul></pre>
 </p>-->
@@ -24,10 +23,10 @@ Here are some ideas to get you started:
 <p align="center">
   <pre color="teal">
    &bull; 🎉 I write blogs sometimes      :- <a href="https://akshaygautam010.wixsite.com/techdrop">Here</a>
-   &bull; 🔭 I’m currently working on     :- CV on Raspberry pi 
-   &bull; 🌱 I’m currently learning       :- Deep Learning 
-   &bull; 👯 I’m looking to collaborate on:- NLP projects 
-   &bull; 💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge, DataStructures 
+   &bull; 🔭 I’m currently working on     :- LLMs on Raspberry pi
+   &bull; 🌱 I’m currently learning       :- AI model frankestining
+   &bull; 👯 I’m looking to collaborate on:- Applied AI projects
+   &bull; 💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
@@ -63,7 +62,6 @@ Here are some ideas to get you started:
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Rpi" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p><br>
 
 
