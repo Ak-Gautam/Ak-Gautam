@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Gautam&layout=compact&theme=tokyonight) <br>
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ak-Gautam&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4>
+
 
 <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Gautam&layout=compact&theme=tokyonight" alt="AK_Gautam"/> <br> --->
 
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Gautam&theme=radical" alt="AK_Gautam" /></p><br><hr>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Gautam&theme=radical" alt="AK_Gautam" /></p><br>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ak-Gautam&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><hr>
 
 
