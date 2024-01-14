@@ -8,17 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-<!--<p align="center" text="">
-  <pre">
-  <ul>
-    <li>🎉 I write blogs sometimes      :- <a href="https://akshaygautam010.wixsite.com/techdrop">Here</a></li>
-    <li>🔭 I’m currently working on     :- LLMs on Raspberry pi </li>
-    <li>🌱 I’m currently learning       :- AI model frankestining </li>
-    <li>👯 I’m looking to collaborate on:- Applied AI projects </li>
-    <li>💬 Ask me about                 :- Machine Learning, Robotics, AI on Edge </li>
-    <li>⚡ Fun fact: I can speak about seven languages (mostly local) 😎 </li>
-   </ul></pre>
-</p>-->
+
 
 <p align="center">
   <pre color="teal">
@@ -32,9 +22,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="AK_Gautam" /> </h3>
 
-<p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p>
+<p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
 
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ak-Gautam&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4><hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="center">
@@ -69,6 +59,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Gautam&layout=compact&theme=tokyonight) <br>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ak-Gautam&theme=discord&row=2&column=4" alt="AK_Gautam" /></a></h4>
 
 <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Gautam&layout=compact&theme=tokyonight" alt="AK_Gautam"/> <br> --->
 
