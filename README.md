@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="AK_Gautam" /> </h3>
 
-<p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
+<p align="center"><a href="https://akgautam.com"><img src="https://img.shields.io/website?url=https://akgautam.com&logo=github&style=plastic" height=23 width=130/></a></p><hr>
 
 
 
